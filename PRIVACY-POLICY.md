@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-[COMPANY-NAME] built the all app as an Ad Supported app. This SERVICE is provided by [COMPANY-NAME] at no cost and is intended for use as is.
+Cloudhouseid built the all app as an Ad Supported app. This SERVICE is provided by Cloudhouseid at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -10,7 +10,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to [COMPANY-NAME]. The information that we request will be retained by us and used as described in this privacy policy.
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Cloudhouseid. The information that we request will be retained by us and used as described in this privacy policy.
 
 The app does use third-party services that may collect information used to identify you.
 
